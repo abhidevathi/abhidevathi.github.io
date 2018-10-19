@@ -1,0 +1,14 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+I'd love to hear from you, so feel free to reach out:
+
+Case Western Reserve University<br>
+10900 Euclid Avenue<br>
+Cleveland, OH 60504<br>
+630-730-4075<br>
+dxd310@case.edu<br>
+
+Or connect with me on GitHub, or Linkedin (links in top right).

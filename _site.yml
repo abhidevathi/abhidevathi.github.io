@@ -3,8 +3,8 @@ output_dir: "."
 navbar:
   title: "Abhi Devathi"
   left:
-    - text: "Projects"
-      href: projects.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:abhidevathi@gmail.com
