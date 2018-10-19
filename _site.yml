@@ -7,7 +7,7 @@ navbar:
       href: projects.html
   right:
     - icon: fa-envelope fa-lg
-      href: contact.html
+      href: mailto:abhidevathi@gmail.com
     - icon: fa-github fa-lg
       href: http://github.com/abhidevathi
     - icon: fa-linkedin fa-lg
