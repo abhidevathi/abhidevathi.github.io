@@ -7,4 +7,4 @@
 
 I like to analyze data. Currently, I'm a Master's student at [CWRU](http://mathstats.case.edu).
 
-My Resume is available [here](files/DevathiResume.pdf).
+My Resume is available [here](files/Resume.pdf).
